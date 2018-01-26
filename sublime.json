@@ -1,13 +1,15 @@
 {
-	"color_scheme": "Packages/Colorsublime - Themes/Peacock.tmTheme",
+	"color_scheme": "Packages/User/SublimeLinter/Monokai-Cobalt (SL).tmTheme",
 	"font_face": "monaco",
-	"font_size": 13,
+	"font_size": 14,
 	"ignored_packages":
 	[
 		"Vintage"
 	],
 	"soda_classic_tabs": true,
 	"soda_tabs_autowidth": true,
+	"tab_size": 2,
 	"theme": "SoDaReloaded Dark.sublime-theme",
-	"word_wrap": "true"
+	"word_wrap": "true",
+	"translate_tabs_to_spaces": true
 }
