@@ -1,6 +1,10 @@
 {
 	"color_scheme": "Packages/User/SublimeLinter/Monokai-Cobalt (SL).tmTheme",
 	"font_face": "monaco",
+	"font_options": [
+		"gray_antialias",
+		"subpixel_antialias"
+	],
 	"font_size": 14,
 	"ignored_packages":
 	[
