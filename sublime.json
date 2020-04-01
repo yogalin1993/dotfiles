@@ -1,19 +1,37 @@
 {
-	"color_scheme": "Packages/User/SublimeLinter/Monokai-Cobalt (SL).tmTheme",
-	"font_face": "monaco",
-	"font_options": [
+	"binary_file_patterns":
+	[
+		"*.jpg",
+		"*.jpeg",
+		"*.png",
+		"*.gif",
+		"*.ttf",
+		"*.tga",
+		"*.dds",
+		"*.ico",
+		"*.eot",
+		"*.pdf",
+		"*.swf",
+		"*.jar",
+		"*.zip",
+		"node_modules/**"
+	],
+	"color_scheme": "Packages/Color Scheme - Default/Monokai.sublime-color-scheme",
+	"font_face": "Monaco",
+	"font_options":
+	[
 		"gray_antialias",
 		"subpixel_antialias"
 	],
-	"font_size": 14,
+	"font_size": 15,
+	"highlight_line": true,
 	"ignored_packages":
 	[
 		"Vintage"
 	],
 	"soda_classic_tabs": true,
 	"soda_tabs_autowidth": true,
-	"tab_size": 2,
-	"theme": "SoDaReloaded Dark.sublime-theme",
-	"word_wrap": "true",
-	"translate_tabs_to_spaces": true
+	"theme": "SoDaReloaded Light.sublime-theme",
+	"translate_tabs_to_spaces": true,
+	"word_wrap": false
 }
